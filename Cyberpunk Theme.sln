@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31515.178
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cyberpunk Theme", "Cyberpunk Theme\Cyberpunk Theme.csproj", "{2BDFFD81-000C-4489-BD4F-43DDE6E38B3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2BDFFD81-000C-4489-BD4F-43DDE6E38B3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BDFFD81-000C-4489-BD4F-43DDE6E38B3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BDFFD81-000C-4489-BD4F-43DDE6E38B3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BDFFD81-000C-4489-BD4F-43DDE6E38B3D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E034364-00D3-483F-B056-249E1F1EDD53}
+	EndGlobalSection
+EndGlobal
