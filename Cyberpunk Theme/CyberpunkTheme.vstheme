@@ -5622,7 +5622,7 @@
         <Background Type="CT_RAW" Source="FF68217A" />
       </Color>
       <Color Name="StatusBarBuilding">
-        <Background Type="CT_RAW" Source="FF00C6E1" />
+        <Background Type="CT_RAW" Source="FF02E49E" />
         <Foreground Type="CT_RAW" Source="FF262626" />
       </Color>
       <Color Name="StatusBarDebugging">
@@ -5634,7 +5634,7 @@
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="MainWindowActiveBuildingBorder">
-        <Background Type="CT_RAW" Source="FF00C6E1" />
+        <Background Type="CT_RAW" Source="FF02E49E" />
       </Color>
       <Color Name="MainWindowActiveDebuggingBorder">
         <Background Type="CT_RAW" Source="FFEE0077" />
