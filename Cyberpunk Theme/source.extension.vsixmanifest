@@ -3,7 +3,7 @@
     <Metadata>
         <Identity Id="Cyberpunk_Theme.e1e706e2-05d3-4da9-8754-652cd8ab65f4" Version="1.1" Language="en-US" Publisher="T0uchM3" />
         <DisplayName>Cyberpunk - Theme</DisplayName>
-        <Description xml:space="preserve">Cyberpunk visual studio theme.</Description>
+        <Description xml:space="preserve">Cyberpunk theme for visual studio.</Description>
         <Icon>icon.jpg</Icon>
         <PreviewImage>preview2.png</PreviewImage>
         <Tags>theme, cyberpunk, neon, dark</Tags>
