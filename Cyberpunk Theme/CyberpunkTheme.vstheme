@@ -2061,7 +2061,7 @@
       </Color>
       <Color Name="CppStaticMemberFieldSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF14CA91" />
       </Color>
       <Color Name="CppPropertySemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -5622,16 +5622,16 @@
         <Background Type="CT_RAW" Source="FF68217A" />
       </Color>
       <Color Name="StatusBarBuilding">
-        <Background Type="CT_RAW" Source="FF02E49E" />
-        <Foreground Type="CT_RAW" Source="FF262626" />
+        <Background Type="CT_RAW" Source="FF090C1D" />
+        <Foreground Type="CT_RAW" Source="FF02E49E" />
       </Color>
       <Color Name="StatusBarDebugging">
-        <Background Type="CT_RAW" Source="FFEE0077" />
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF090C1D" />
+        <Foreground Type="CT_RAW" Source="FFEE0077" />
       </Color>
       <Color Name="StatusBarNoSolution">
-        <Background Type="CT_RAW" Source="FF68217A" />
-        <Foreground Type="CT_RAW" Source="FFFFFFFF" />
+        <Background Type="CT_RAW" Source="FF090C1D" />
+        <Foreground Type="CT_RAW" Source="FF7E2A93" />
       </Color>
       <Color Name="MainWindowActiveBuildingBorder">
         <Background Type="CT_RAW" Source="FF02E49E" />
