@@ -2073,7 +2073,7 @@
       </Color>
       <Color Name="CppClassTemplateSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF2B91AF" />
       </Color>
       <Color Name="CppGenericTypeSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -2081,7 +2081,7 @@
       </Color>
       <Color Name="CppFunctionTemplateSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FF2B91AF" />
       </Color>
       <Color Name="CppNamespaceSemanticTokenFormat">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -7633,7 +7633,7 @@
         <Background Type="CT_RAW" Source="FFE51400" />
       </Color>
       <Color Name="SearchGlyph">
-        <Background Type="CT_RAW" Source="00F1F1F1" />
+        <Background Type="CT_RAW" Source="FF169AFF" />
       </Color>
       <Color Name="ClearGlyph">
         <Background Type="CT_RAW" Source="FF9FA7B6" />
@@ -7643,10 +7643,10 @@
       </Color>
       <Color Name="Unfocused">
         <Background Type="CT_RAW" Source="FF000B1E" />
-        <Foreground Type="CT_RAW" Source="00C3CCDD" />
+        <Foreground Type="CT_RAW" Source="FF000B1E" />
       </Color>
       <Color Name="UnfocusedWatermarkText">
-        <Background Type="CT_RAW" Source="00999999" />
+        <Background Type="CT_RAW" Source="00B6005B" />
       </Color>
       <Color Name="UnfocusedBorder">
         <Background Type="CT_RAW" Source="009F005A" />
@@ -7668,10 +7668,10 @@
         <Background Type="CT_RAW" Source="FFA40064" />
       </Color>
       <Color Name="UnfocusedDropDownButton">
-        <Background Type="CT_RAW" Source="7E103156" />
+        <Background Type="CT_RAW" Source="FF000B1E" />
       </Color>
       <Color Name="UnfocusedDropDownButtonGlyph">
-        <Background Type="CT_RAW" Source="FFF1F1F1" />
+        <Background Type="CT_RAW" Source="FF000B1E" />
       </Color>
       <Color Name="PopupControlMouseDownBackgroundGradientEnd">
         <Background Type="CT_RAW" Source="72555555" />
@@ -7773,7 +7773,7 @@
         <Background Type="CT_RAW" Source="FFA40064" />
       </Color>
       <Color Name="UnfocusedDropDownButtonBorder">
-        <Background Type="CT_RAW" Source="7E103156" />
+        <Background Type="CT_RAW" Source="FF000B1E" />
       </Color>
       <Color Name="MouseDownDropDownButtonBorder">
         <Background Type="CT_RAW" Source="FFA40064" />
