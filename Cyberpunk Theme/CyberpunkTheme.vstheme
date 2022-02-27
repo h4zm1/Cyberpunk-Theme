@@ -7649,7 +7649,7 @@
         <Background Type="CT_RAW" Source="00B6005B" />
       </Color>
       <Color Name="UnfocusedBorder">
-        <Background Type="CT_RAW" Source="009F005A" />
+        <Background Type="CT_RAW" Source="FF169AFF" />
       </Color>
       <Color Name="Disabled">
         <Background Type="CT_RAW" Source="FF000B1E" />
