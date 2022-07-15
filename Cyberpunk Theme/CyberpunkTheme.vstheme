@@ -1348,7 +1348,7 @@
         <Foreground Type="CT_RAW" Source="FF7CA5A0" />
       </Color>
       <Color Name="CurrentLineActiveFormat">
-        <Background Type="CT_RAW" Source="FF8751BB" />
+        <Background Type="CT_RAW" Source="FF9976BA" />
         <Foreground Type="CT_RAW" Source="FF090C1D" />
       </Color>
       <Color Name="deltadiff.remove.line">
@@ -3353,7 +3353,7 @@
       </Color>
       <Color Name="axml - attribute value">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFF36C" />
+        <Foreground Type="CT_RAW" Source="FFE7FF6C" />
       </Color>
       <Color Name="axml - cdata section">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -3381,7 +3381,7 @@
       </Color>
       <Color Name="axml - text">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFDFFDFF" />
       </Color>
       <Color Name="axml - resource url">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -10057,7 +10057,7 @@
       </Color>
       <Color Name="XML Text">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFC8C8C8" />
+        <Foreground Type="CT_RAW" Source="FFDFFDFF" />
       </Color>
       <Color Name="XML Keyword">
         <Background Type="CT_RAW" Source="FF000B1E" />
@@ -10081,7 +10081,7 @@
       </Color>
       <Color Name="XML Attribute Value">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFFFF36C" />
+        <Foreground Type="CT_RAW" Source="FFE7FF6C" />
       </Color>
       <Color Name="XML Attribute Quotes">
         <Background Type="CT_AUTOMATIC" Source="00000000" />
@@ -10138,11 +10138,11 @@
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="Selected Text">
-        <Background Type="CT_RAW" Source="FF3D4A8B" />
+        <Background Type="CT_RAW" Source="FF87739B" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Inactive Selected Text">
-        <Background Type="CT_RAW" Source="FF51566C" />
+        <Background Type="CT_RAW" Source="FF737A9B" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="Indicator Margin">
