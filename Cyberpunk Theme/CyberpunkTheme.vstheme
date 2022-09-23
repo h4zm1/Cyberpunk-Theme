@@ -1216,7 +1216,7 @@
         <Background Type="CT_RAW" Source="FFB6005B" />
       </Color>
       <Color Name="PopupHover">
-        <Background Type="CT_RAW" Source="FF717171" />
+        <Background Type="CT_RAW" Source="FF9F005A" />
       </Color>
       <Color Name="TextSelected">
         <Background Type="CT_RAW" Source="FFFFFFFF" />
@@ -1234,15 +1234,15 @@
         <Background Type="CT_RAW" Source="FF9FA7B6" />
       </Color>
       <Color Name="Popup">
-        <Background Type="CT_RAW" Source="FF103156" />
+        <Background Type="CT_RAW" Source="FF001F1E" />
         <Foreground Type="CT_RAW" Source="FFF1F1F1" />
       </Color>
       <Color Name="PopupBorder">
-        <Background Type="CT_RAW" Source="FFED9CC5" />
+        <Background Type="CT_RAW" Source="FF41001B" />
       </Color>
       <Color Name="PopupPinButtonHover">
-        <Background Type="CT_RAW" Source="FF686868" />
-        <Foreground Type="CT_RAW" Source="FFF1F1F1" />
+        <Background Type="CT_RAW" Source="FF001F1E" />
+        <Foreground Type="CT_RAW" Source="FF0BFEFC" />
       </Color>
       <Color Name="PopupPinButtonMouseDown">
         <Background Type="CT_RAW" Source="FF862B60" />
@@ -3708,16 +3708,16 @@
         <Background Type="CT_RAW" Source="FF999999" />
       </Color>
       <Color Name="Hyperlink">
-        <Background Type="CT_RAW" Source="FFB6005B" />
+        <Background Type="CT_RAW" Source="FF0BFEFC" />
       </Color>
       <Color Name="HyperlinkHover">
-        <Background Type="CT_RAW" Source="FF55AAFF" />
+        <Background Type="CT_RAW" Source="FF0BFEFC" />
       </Color>
       <Color Name="HyperlinkPressed">
         <Background Type="CT_RAW" Source="FFB6005B" />
       </Color>
       <Color Name="HyperlinkDisabled">
-        <Background Type="CT_RAW" Source="FF656565" />
+        <Background Type="CT_RAW" Source="FF00ACAA" />
       </Color>
       <Color Name="ListItemGlyph">
         <Background Type="CT_RAW" Source="FFF1F1F1" />
@@ -4667,7 +4667,7 @@
         <Background Type="CT_RAW" Source="FF090C1D" />
       </Color>
       <Color Name="ButtonFace">
-        <Background Type="CT_RAW" Source="FF103156" />
+        <Background Type="CT_RAW" Source="FF5E003A" />
       </Color>
       <Color Name="ButtonHighlight">
         <Background Type="CT_RAW" Source="FF464646" />
@@ -4766,7 +4766,7 @@
         <Background Type="CT_RAW" Source="FF000B1E" />
       </Color>
       <Color Name="ClassDesignerClassCompartment">
-        <Background Type="CT_RAW" Source="FFD5DEF0" />
+        <Background Type="CT_RAW" Source="FF000B1E" />
       </Color>
       <Color Name="ClassDesignerClassHeaderBackground">
         <Background Type="CT_RAW" Source="FFD5DEF0" />
@@ -5006,7 +5006,7 @@
         <Background Type="CT_RAW" Source="FFFF30A5" />
       </Color>
       <Color Name="CommandBarSelectedBorder">
-        <Background Type="CT_RAW" Source="FF3399FF" />
+        <Background Type="CT_RAW" Source="FFB6005B" />
       </Color>
       <Color Name="CommandBarToolBarBorder">
         <Background Type="CT_RAW" Source="FF000B1E" />
@@ -5505,16 +5505,16 @@
         <Foreground Type="CT_RAW" Source="FF999999" />
       </Color>
       <Color Name="ToolWindowTabMouseOverBackgroundBegin">
-        <Background Type="CT_RAW" Source="FF103156" />
+        <Background Type="CT_RAW" Source="00003459" />
       </Color>
       <Color Name="ToolWindowTabMouseOverBackgroundEnd">
-        <Background Type="CT_RAW" Source="FF103156" />
+        <Background Type="CT_RAW" Source="00003459" />
       </Color>
       <Color Name="ToolWindowTabMouseOverBorder">
         <Background Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="ToolWindowTabMouseOverText">
-        <Background Type="CT_RAW" Source="FF55AAFF" />
+        <Background Type="CT_RAW" Source="FF0BFEFC" />
       </Color>
       <Color Name="VizSurfaceBrownDark">
         <Background Type="CT_RAW" Source="FF705829" />
@@ -5631,16 +5631,16 @@
         <Background Type="CT_RAW" Source="FF000B1E" />
       </Color>
       <Color Name="CommandBarHover">
-        <Background Type="CT_RAW" Source="FF103156" />
+        <Background Type="CT_RAW" Source="FF090C1D" />
       </Color>
       <Color Name="CommandBarHoverOverSelected">
         <Background Type="CT_RAW" Source="FF103156" />
       </Color>
       <Color Name="CommandBarHoverOverSelectedIcon">
-        <Background Type="CT_RAW" Source="FF103156" />
+        <Background Type="CT_RAW" Source="FF4B0060" />
       </Color>
       <Color Name="CommandBarHoverOverSelectedIconBorder">
-        <Background Type="CT_RAW" Source="FF3399FF" />
+        <Background Type="CT_RAW" Source="FF52FFFF" />
       </Color>
       <Color Name="CommandBarSelected">
         <Background Type="CT_RAW" Source="FF000B1E" />
@@ -5652,7 +5652,7 @@
         <Background Type="CT_RAW" Source="FF169AFF" />
       </Color>
       <Color Name="CommandBarTextHover">
-        <Background Type="CT_RAW" Source="FFF8126D" />
+        <Background Type="CT_RAW" Source="FF52FFFF" />
       </Color>
       <Color Name="CommandBarTextInactive">
         <Background Type="CT_RAW" Source="FF656565" />
@@ -6573,7 +6573,7 @@
         <Background Type="CT_RAW" Source="FFF30506" />
       </Color>
       <Color Name="MainWindowInactiveBorder">
-        <Background Type="CT_RAW" Source="FF103156" />
+        <Background Type="CT_RAW" Source="FF67003F" />
       </Color>
       <Color Name="MainWindowActiveCaption">
         <Background Type="CT_RAW" Source="FF000B1E" />
@@ -6627,7 +6627,7 @@
         <Foreground Type="CT_RAW" Source="FFEE0077" />
       </Color>
       <Color Name="MainWindowActiveNoSolutionBorder">
-        <Background Type="CT_RAW" Source="FF68217A" />
+        <Background Type="CT_RAW" Source="FF5A0071" />
       </Color>
       <Color Name="StatusBarBuilding">
         <Background Type="CT_RAW" Source="FF090C1D" />
@@ -6635,7 +6635,7 @@
       </Color>
       <Color Name="StatusBarDebugging">
         <Background Type="CT_RAW" Source="FF090C1D" />
-        <Foreground Type="CT_RAW" Source="FFEE0077" />
+        <Foreground Type="CT_RAW" Source="FFC2FF28" />
       </Color>
       <Color Name="StatusBarNoSolution">
         <Background Type="CT_RAW" Source="FF090C1D" />
@@ -6645,10 +6645,10 @@
         <Background Type="CT_RAW" Source="FF02E49E" />
       </Color>
       <Color Name="MainWindowActiveDebuggingBorder">
-        <Background Type="CT_RAW" Source="FFEE0077" />
+        <Background Type="CT_RAW" Source="FFC2FF28" />
       </Color>
       <Color Name="MainWindowActiveDefaultBorder">
-        <Background Type="CT_RAW" Source="FF000B1E" />
+        <Background Type="CT_RAW" Source="FFEE0077" />
       </Color>
       <Color Name="MainWindowResizeGripTexture2">
         <Background Type="CT_RAW" Source="7F000000" />
