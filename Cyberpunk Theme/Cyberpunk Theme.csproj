@@ -46,6 +46,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <None Include="CyberpunkClassicTheme.vstheme">
+      <SubType>Designer</SubType>
+    </None>
     <None Include="CyberpunkTheme.vstheme">
       <SubType>Designer</SubType>
     </None>
